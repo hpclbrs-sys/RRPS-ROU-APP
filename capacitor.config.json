@@ -1,0 +1,8 @@
+{
+  "appId": "com.hpcl.rrpsrou",
+  "appName": "RRPS ROU APP",
+  "webDir": ".",
+  "server": {
+    "androidScheme": "https"
+  }
+}
